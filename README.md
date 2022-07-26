@@ -2,12 +2,5 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-### Nota añadida desde GitHub
-Esta nota fue añadida completamente desde GitHub
-
-### Otra nota añadida desde GitHub
-Esta otra nota fue añadida desde GitHub
+## Estos cambios son locles
+Se realizaron cambios desde el equipo para subirlos al repositorio remoto. Cabe recordar que este proyecto solo es de prueba para entrenamiento con git y github
