@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Nota añadida desde GitHub
 Esta nota fue añadida completamente desde GitHub
+
+### Otra nota añadida desde GitHub
+Esta otra nota fue añadida desde GitHub
