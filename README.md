@@ -15,7 +15,10 @@ Cuando se hizo pull a local, hubo un conflicto porque se modificó un archivo en
 
 ![Imagen de dispositivo](https://blog.ida.cl/wp-content/uploads/sites/5/2020/04/tamano-redes-blog-655x470.png)
 
-[] Check 1
+[ ] Check 1
 [x] Check 2
-[] Check 3
+[ ] Check 3
 
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](),
